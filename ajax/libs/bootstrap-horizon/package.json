@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap-horizon",
+  "filename": "bootstrap-horizon.min.css",
+  "version": "0.1.0",
+  "description": "Boostrap 3 rows with inline, horizontally scrolling columns",
+  "main": "bootstrap-horizon.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zertz/bootstrap-horizon.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "git+https://github.com/Zertz/bootstrap-horizon.git",
+    "basePath": "",
+    "files": [
+      "bootstrap-horizon*"
+    ]
+  },
+  "keywords": [
+    "bootstrap",
+    "horizontal",
+    "scroll",
+    "row"
+  ],
+  "author": "Pier-Luc Gendreau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zertz/bootstrap-horizon/issues"
+  },
+  "homepage": "https://github.com/Zertz/bootstrap-horizon#readme"
+}
