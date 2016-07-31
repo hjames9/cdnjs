@@ -7,14 +7,15 @@
     "type": "git",
     "url": "git://github.com/Zertz/bootstrap-horizon.git"
   },
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/Zertz/bootstrap-horizon.git",
-    "basePath": "",
-    "files": [
-      "bootstrap-horizon*"
-    ]
-  },
+  "npmName": "bootstrap-horizon",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "bootstrap-horizon*"
+      ]
+    }
+  ]
   "keywords": [
     "bootstrap",
     "horizontal",
